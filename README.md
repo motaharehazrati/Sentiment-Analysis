@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-This projrct is about designing a multimodal system for sentiment analysis and it consisits of four phase.
+This projrct is about designing a multimodal system for sentiment analysis and it consisits of four phases.
 Phase0: 
 MSCTD: A Multimodal Sentiment Chat Translation Dataset
 The following are extracted from the dataset:
